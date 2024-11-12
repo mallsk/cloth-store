@@ -7,7 +7,7 @@ export default function App() {
     <Router>
       <div className="flex justify-between h-16 border-solid border-b-2 rounded border-gray-150 lg:pl-20 pl-4 lg:pr-20 pr-4">
         <div className="flex justify-start text-3xl font-bold pt-3">
-          <span className="pr-2"><img src="./src/assets/logo.png" alt="" className="w-10 h-10 pb-2" /></span>
+          <span className="pr-2"><img src="./public/logo-fill.svg" alt="" className="w-10 h-10 pb-2" /></span>
           <Link to={"/"}>ClothStore</Link>
         </div>
         <div className="flex justify-start">

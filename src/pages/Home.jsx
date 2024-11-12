@@ -2,7 +2,7 @@ export function Home() {
     return <div className="w-full text-center pt-16">
         <div className="">
             <div className="flex justify-center">
-            <img src="../src/assets/logo.png" alt="" className="w-40 h-50 " />
+            <img src="../public/logo-fill.svg" alt="" className="w-40 h-50 " />
             </div>
             <div>
                 <p className="text-7xl font-bold text-transparent bg-clip-text bg-gradient-to-tl from-orange-500 to-black">Summer Collection</p>
@@ -20,7 +20,7 @@ export function Home() {
                 <div className="lg:grid lg:grid-cols-4 grid-cols-1 md:grid-cols-3 pt-10 lg:pl-12 pl-20">
                     <div className="w-1/4 pb-10">
                         <div className="w-80 h-auto bg-white rounded-lg drop-shadow-lg ">
-                            <img src="../src/assets/image.png?height=400&width=300" alt="Shirt" className="w-full bg-gray-200/50 h-64 object-cover" />
+                            <img src="https://imgs.search.brave.com/FZfvvzIOXZ4zc54UPwAnXvk2ZHRFG2IWvSZiO5s9dpg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZmFzaGlvbmJlYW5z/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMS8xMi9sdWNh/LWZhbG9uaS1kZW5p/bS1zaGlydC5qcGVn?height=400&width=300" alt="Shirt" className="w-full bg-gray-200/50 h-64 object-cover rounded-lg" />
                             <p className="pt-4 font-bold text-xl pl-8 flex justify-start border-t-2 border-t-gray-500 rounded-lg">Product Name</p>
                             <p className="pt-2 font-medium text-xl pl-8 flex justify-start">$99.9</p>
                             <div className="pt-2 pb-4">
@@ -30,7 +30,7 @@ export function Home() {
                     </div>
                     <div className="w-1/4 pb-5 ">
                         <div className="w-80 h-auto bg-white rounded-lg drop-shadow-lg ">
-                            <img src="../src/assets/image.png?height=400&width=300" alt="Shirt" className="w-full bg-gray-200/50 h-64 object-cover" />
+                            <img src="https://imgs.search.brave.com/FZfvvzIOXZ4zc54UPwAnXvk2ZHRFG2IWvSZiO5s9dpg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZmFzaGlvbmJlYW5z/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMS8xMi9sdWNh/LWZhbG9uaS1kZW5p/bS1zaGlydC5qcGVn?height=400&width=300" alt="Shirt" className="w-full bg-gray-200/50 h-64 object-cover rounded-lg" />
                             <p className="pt-4 font-bold text-xl pl-8 flex justify-start border-t-2 border-t-gray-500 rounded-lg">Product Name</p>
                             <p className="pt-2 font-medium text-xl pl-8 flex justify-start">$99.9</p>
                             <div className="pt-2 pb-4">
@@ -40,7 +40,7 @@ export function Home() {
                     </div>
                     <div className="w-1/4 pb-5 ">
                         <div className="w-80 h-auto bg-white rounded-lg drop-shadow-lg ">
-                            <img src="../src/assets/image.png?height=400&width=300" alt="Shirt" className="w-full bg-gray-200/50 h-64 object-cover" />
+                            <img src="https://imgs.search.brave.com/FZfvvzIOXZ4zc54UPwAnXvk2ZHRFG2IWvSZiO5s9dpg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZmFzaGlvbmJlYW5z/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMS8xMi9sdWNh/LWZhbG9uaS1kZW5p/bS1zaGlydC5qcGVn?height=400&width=300" alt="Shirt" className="w-full bg-gray-200/50 h-64 object-cover rounded-lg" />
                             <p className="pt-4 font-bold text-xl pl-8 flex justify-start border-t-2 border-t-gray-500 rounded-lg">Product Name</p>
                             <p className="pt-2 font-medium text-xl pl-8 flex justify-start">$99.9</p>
                             <div className="pt-2 pb-4">
@@ -50,7 +50,7 @@ export function Home() {
                     </div>
                     <div className="w-1/4 pb-5 ">
                         <div className="w-80 h-auto bg-white rounded-lg drop-shadow-lg ">
-                            <img src="../src/assets/image.png?height=400&width=300" alt="Shirt" className="w-full bg-gray-200/50 h-64 object-cover" />
+                            <img src="https://imgs.search.brave.com/FZfvvzIOXZ4zc54UPwAnXvk2ZHRFG2IWvSZiO5s9dpg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZmFzaGlvbmJlYW5z/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMS8xMi9sdWNh/LWZhbG9uaS1kZW5p/bS1zaGlydC5qcGVn?height=400&width=300" alt="Shirt" className="w-full bg-gray-200/50 h-64 object-cover rounded-lg" />
                             <p className="pt-4 font-bold text-xl pl-8 flex justify-start border-t-2 border-t-gray-500 rounded-lg">Product Name</p>
                             <p className="pt-2 font-medium text-xl pl-8 flex justify-start">$99.9</p>
                             <div className="pt-2 pb-4">
