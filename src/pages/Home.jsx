@@ -17,7 +17,7 @@ export function Home() {
         <div className="pt-40">
             <div className="bg-sky-200 max-h-max pt-10">
                 <p className="text-2xl font-bold tracking-wide" >Featured Products</p>
-                <div className="lg:grid lg:grid-cols-4 grid-cols-1 md:grid-cols-3 pt-10 lg:pl-12 lg:pl-12 pl-12">
+                <div className="lg:grid lg:grid-cols-4 grid-cols-1 md:grid-cols-2 pt-10 lg:pl-12 lg:pl-12 pl-12">
                     <div className="w-1/4 pb-10">
                         <div className="lg:w-80 w-96 h-auto bg-white rounded-lg drop-shadow-lg ">
                             <img src="https://imgs.search.brave.com/FZfvvzIOXZ4zc54UPwAnXvk2ZHRFG2IWvSZiO5s9dpg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZmFzaGlvbmJlYW5z/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMS8xMi9sdWNh/LWZhbG9uaS1kZW5p/bS1zaGlydC5qcGVn?height=400&width=300" alt="Shirt" className="w-full bg-gray-200/50 h-64 object-cover rounded-lg" />
